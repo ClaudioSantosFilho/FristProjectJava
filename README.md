@@ -3,7 +3,7 @@
 Projeto:
 
 - Entrega dia 22/04
-- Orientada a objetos
+- Orientado a objetos
 - Listar manifestação (Elogio, Reclamação, Sugestação)
 - Pesquisar manifestação por codigo (Elogio, Reclamação, Sugestação)
 - Adicionar manifestação (Elogio, Reclamação, Sugestação)
